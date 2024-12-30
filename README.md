@@ -11,7 +11,7 @@ Web Development:
 	•	React, Angular, or Vue.js.
 	•	Node.js, Django.
 	•	SQL, MongoDB.
-  •      Git version control.
+  	•      Git version control.
 IT Infrastructure & Security:
 	•	AWS, Azure, Google Cloud.
 	•	Network protocols and cybersecurity principles.
