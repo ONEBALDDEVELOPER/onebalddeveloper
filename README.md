@@ -2,15 +2,36 @@
 <img src="https://your-image-url.com/banner.png" alt="My Banner" width="100%">
 
 ## 🚀 About Me
-I'm a passionate IT professional with a passion for Software Development and with experience in IT Project Management and Web Development. I love building solutions that bring value to my company while advancing my skills and career..
+I am a dedicated IT professional with a strong passion for software development and proven experience in IT project management and web development. I thrive on building innovative solutions that drive value for my organization while continuously advancing my skills and growing in my career.”
 
 ## 🌟 Skills
-<img src="" alt="HTML" width="50">
-<img src="" alt="CSS" width="50">
-<img src="" alt="JavaScript" width="50">
-<img src="" alt="Bootstrap" width="50">
-<img src="" alt="Python" width="50">
-<img src="" alt="NodeJS" width="50">
+#Technical Skills
+Web Development:
+	•	HTML, CSS, and JavaScript.
+	•	React, Angular, or Vue.js.
+	•	Node.js, Django.
+	•	SQL, MongoDB.
+  •      Git version control.
+IT Infrastructure & Security:
+	•	AWS, Azure, Google Cloud.
+	•	Network protocols and cybersecurity principles.
+Tools & Platforms:
+	•	JIRA, Trello, MS Project.
+	•	Confluence, Slack.
+	•	Visual Studio Code.
+
+#Project Management Skills
+  • Planning & Execution
+  • Risk Management
+  • Stakeholder Engagement
+  • Governance & Compliance
+
+#Interpersonal & Soft Skills
+  • Communication
+  • Problem-Solving
+  • Team Collaboration
+  • Adaptability
+  
 ## 🛠️ Projects
 - No personal projects at the moment.
 
