@@ -5,7 +5,7 @@
 I am a dedicated IT professional with a strong passion for software development and proven experience in IT project management and web development. I thrive on building innovative solutions that drive value for my organization while continuously advancing my skills and growing in my career.”
 
 ## 🌟 Skills
-#Technical Skills
+#👨🏾‍💼👨🏾‍💻Technical Skills
 Web Development:
 	•	HTML, CSS, and JavaScript.
 	•	React, Angular, or Vue.js.
