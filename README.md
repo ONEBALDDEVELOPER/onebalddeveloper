@@ -2,7 +2,19 @@
 <img src="https://your-image-url.com/banner.png" alt="My Banner" width="100%">
 
 ## 🚀 About Me
-I am a dedicated IT professional with a strong passion for software development and proven experience in IT project management and web development. I thrive on building innovative solutions that drive value for my organization while continuously advancing my skills and growing in my career.”
+I am a dedicated IT professional with a strong passion for software development. I thrive on building innovative solutions that drive value for my organization while continuously advancing my skills and growing in my career.I am a highly motivated and results-oriented individual with a passion for building high-quality websites and web applications. I am also a team player and I am able to work effectively with others to achieve common goals.
+
+🌍  I'm based in the UK
+🧠  I'm learning JavaSciript and 
+🤝  I'm open to collaborating on social media app
+
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+Skills
+PHP JavaScript Git HTML5 CSS3 React MySQL NodeJS Figma
+
+Socials
+   
 
 ## 🌟 Skills
 #👨🏾‍💼👨🏾‍💻Technical Skills
