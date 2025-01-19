@@ -55,7 +55,7 @@ No personal projects at the moment. Excited to collaborate on meaningful venture
 ---
 
 ## 📫 Get in Touch
-- **LinkedIn**: [Chike Jarret](#)  
+- **LinkedIn**: [Chike Jarret](https://www.linkedin.com/in/chike-jarret-andy-iwebelua-itprojectmanager-6700a6224/)  
 - **Email**: [andyiwebeluajarret@gmail.com](mailto:andyiwebeluajarret@gmail.com)
 
 
