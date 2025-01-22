@@ -32,12 +32,12 @@ Copy
 Edit
 # Skills
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" />
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" /></a>
+  <a href="https://git-scm.com/" rel="nofollow"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" /></a>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
+  <a href="https://www.w3.org/TR/CSS/#css" rel="nofollow"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" /></a>
+  <a href="https://reactjs.org/" rel="nofollow"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" /></a>
+  <a href="https://www.mysql.com/" rel="nofollow"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" /></a>
   <a href="https://nodejs.org/en/" rel="nofollow"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" /></a>
   <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" />
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
