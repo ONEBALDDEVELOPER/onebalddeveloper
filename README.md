@@ -31,7 +31,7 @@ markdown
 Copy
 Edit
 # Skills
-<p align="right">
+<p align="left">
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" />
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" />
@@ -42,7 +42,7 @@ Edit
   <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" />
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/django.png" alt="Django" />  
+  <img src="https://img.icons8.com/windows/64/django.png" alt="Django" />  
  <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
 </p>
 
