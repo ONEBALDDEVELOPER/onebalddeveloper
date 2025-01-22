@@ -40,7 +40,7 @@ Edit
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
   <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" />
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
+  <a href="https://nodejs.org/en/" rel="nofollow"><img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/></a>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
   <img src="https://img.icons8.com/nolan/50/django.png" alt="Django" />  
  <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
