@@ -12,25 +12,6 @@ I am a dedicated IT professional and aspiring developer with a strong passion fo
 
 ## 🌟 Skills
 
-Share
-
-
-You said:
-
-create something like this for my github profile
-ChatGPT said:
-ChatGPT
-To create a similar design for your GitHub profile, you can:
-
-Use Markdown to format your profile README.md file.
-Add icons for skills and socials using links to external icon repositories or custom assets.
-Style the layout using Markdown tables.
-Here’s a Markdown example to get you started:
-
-markdown
-Copy
-Edit
-# Skills
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" /></a>
   <a href="https://git-scm.com/" rel="nofollow"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" /></a>
