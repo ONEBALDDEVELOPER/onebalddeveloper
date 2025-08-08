@@ -28,12 +28,6 @@ I am a dedicated IT professional and aspiring software developer with a strong p
 
 ---
 
-## 🛠️ Projects
-
-No personal projects at the moment. Excited to collaborate on meaningful ventures soon!
-
----
-
 ## 📫 Get in Touch
 - **LinkedIn**: [Chike Jarret](https://www.linkedin.com/in/chike-jarret-andy-iwebelua-itprojectmanager-6700a6224/)  
 - **Email**: [andyiwebeluajarret@gmail.com](mailto:andyiwebeluajarret@gmail.com)
