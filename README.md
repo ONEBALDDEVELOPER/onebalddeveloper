@@ -7,6 +7,7 @@ I am a dedicated IT professional and aspiring software developer with a strong p
 - 🌍 I'm based in the UK  
 - 🧠 I'm currently undergoing **full-stack development training**  
 - 🤝 I'm open to collaborating on **different ranges of projects**
+- 🎓 Master's degree - **Information Technology for Energy Industries**
 
 ---
 
