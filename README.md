@@ -2,10 +2,12 @@
 
 ## 🚀 About Me
 
-I am a dedicated IT professional and aspiring software developer with a strong passion for web and software development. I thrive on creating innovative solutions that drive value for my organization while continuously advancing my skills and growing in my career. I am highly motivated, results-oriented, and passionate about building high-quality websites and web applications. As a team player, I excel in collaborating with others to achieve common goals.
+I am a dedicated IT professional and aspiring software developer with a strong passion for web and software development. 
+I thrive on creating innovative solutions that drive value for my organization while continuously advancing my skills and growing in my career. 
 
 - 🌍 I'm based in the UK  
-- 🧠 I'm currently undergoing **full-stack development training**  
+- 🧠 I'm currently undergoing **full-stack development training**
+- 🌱 I'm currently expanding my knowledge of web technologies by exploring new frameworks, design patterns and programming languages.
 - 🤝 I'm open to collaborating on **different ranges of projects**
 - 🎓 Master's degree - **Information Technology for Energy Industries**
 
