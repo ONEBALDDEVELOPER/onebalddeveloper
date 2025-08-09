@@ -32,7 +32,7 @@ I thrive on creating innovative solutions that drive value for my organization w
 ---
 
 ## 📫 Get in Touch
-- **LinkedIn**: [Chike Jarret](https://www.linkedin.com/in/chike-jarret-andy-iwebelua-itprojectmanager-6700a6224/)  
+- **LinkedIn**: [Chike Jarret](https://www.linkedin.com/in/chikejarret)  
 - **Email**: [andyiwebeluajarret@gmail.com](mailto:andyiwebeluajarret@gmail.com)
 
 
