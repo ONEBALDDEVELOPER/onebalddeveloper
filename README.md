@@ -2,8 +2,7 @@
 
 ## 🚀 About Me
 
-I am a dedicated IT professional and aspiring software developer with a strong passion for web and software development, deveided to take the step to pursue a career in web/software development. 
-I thrive on creating innovative solutions that drive value for my organization while continuously advancing my skills and growing in my career. 
+I am a dedicated IT professional and aspiring software developer with a strong passion for web and software development, that drove me to take the step towards a career in web/software development.
 
 - 🌍 I'm based in the UK  
 - 🧠🌱 I'm currently undergoing **full-stack development training and expanding my knowledge of web technologies by exploring new frameworks, design patterns and programming languages.**
